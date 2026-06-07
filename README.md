@@ -1,2 +1,30 @@
-# tamil-multiclass-sentiment-analysis
-Political Multiclass Sentiment Analysis of Tamil Tweets using NLP and Machine Learning. This project classifies political tweets into seven categories: Substantiated, Sarcastic, Opinionated, Positive, Negative, Neutral, and None. Built to analyze public opinion and political discourse on social media platforms like Twitter (X).
+## Tamil Political Sentiment Analysis
+
+This project performs Political Multiclass Sentiment Analysis on Tamil tweets using NLP and Machine Learning techniques. The model classifies tweets into seven categories:
+
+* Substantiated
+* Sarcastic
+* Opinionated
+* Positive
+* Negative
+* Neutral
+* None
+
+## Features
+
+* Tamil text preprocessing
+* Sentiment classification
+* Machine Learning/Deep Learning models
+* Performance evaluation using Accuracy and F1-Score
+
+## Technologies
+
+* Python
+* Google Colab
+* Pandas
+* Scikit-learn
+* TensorFlow/PyTorch
+
+## Objective
+
+To analyze political discourse on social media and automatically identify sentiment expressed in Tamil-language tweets.
